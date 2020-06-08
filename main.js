@@ -20,6 +20,11 @@ return str[num];
 function getTwoCharacters(str, num, num2){
 return str[num] + str[num2]
 }
+
+function makeCapitalized(str){
+  return str.toUpperCase()
+
+}
 /********************************************************************
  * THIS CODE IS FOR INTERNAL USE ONLY. DON'T CHANGE ANYTHING BELOW! *
  ********************************************************************/

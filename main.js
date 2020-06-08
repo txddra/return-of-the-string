@@ -2,10 +2,12 @@
  * YOUR CODE HERE! *
  *******************/   
 function yell(str){
-return str + '!'
+return str + '!';
 }
 
-
+function getFirstCharacter(str){
+return str[0];
+}
 
 
 

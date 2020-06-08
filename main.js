@@ -13,7 +13,9 @@ function getLastCharacter(str){
   return str [str.length - 1];
 }
 
-
+function getOneCharacter(str, num){
+return str[num];
+}
 /********************************************************************
  * THIS CODE IS FOR INTERNAL USE ONLY. DON'T CHANGE ANYTHING BELOW! *
  ********************************************************************/
